@@ -1,8 +1,6 @@
 """
 Servers the 404 page
 """
-
-
 import base64
 
 while True:
