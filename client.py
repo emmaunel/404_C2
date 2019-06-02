@@ -6,7 +6,7 @@ import requests
 
 class Client:
     def __init__(self):
-        self.url = 'http://172.16.58.166/error.html'
+        self.url = 'http://192.168.1.55/error.html'
         self.os = os.name
 
     def os(self):

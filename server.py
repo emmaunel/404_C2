@@ -3,7 +3,7 @@ import sys
 from threading import Thread
 from codecs import decode
 
-host = '10.1.1.84'
+host = '192.168.1.55'
 port = 1234
 
 
